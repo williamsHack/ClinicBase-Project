@@ -8,7 +8,7 @@ Team
 Daniel Kofi Frempong: Daniel will handle user and storage models.
 David Tilkoli:  David will handle APIs, URL routing and server environment setup 
 Michael Mensah: Michael will handle client-side codebase.
-William Dickson: William will handle the front end design
+William Yaw Okyere Dickson: William will handle the front end design
 The roles have been assigned in this manner to leverage individual strengths while providing an opportunity for addressing weaknesses across different aspects of web development.
 Each role will be led by the individuals mentioned above, but brainstorming sessions will involve the entire team.
 
